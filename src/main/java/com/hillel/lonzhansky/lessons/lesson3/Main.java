@@ -11,26 +11,8 @@ public class Main {
         char ch = '\u00B0';
 
         System.out.println(ch + "\"Hello °" + ch + "world\" " + ch);
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
-        System.out.println();
+        
+        System.out.println("From GitHub");
 
 
     }
